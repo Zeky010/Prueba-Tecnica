@@ -1,0 +1,8 @@
+/.vs/
+/ApiPosts/.vs
+
+# Cache
+/ApiPosts/bin
+
+# Binaries
+/ApiPosts/obj/

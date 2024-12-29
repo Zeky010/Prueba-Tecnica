@@ -1,2 +1,3 @@
 # Prueba-Tecnica
- Prueba tecina Angular NgRx
+ Prueba tecnica Angular NgRx y .NET framwork MVC WEB API
+
